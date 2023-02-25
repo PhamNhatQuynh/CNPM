@@ -1,0 +1,11 @@
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\bin\Debug\N4.exe.config
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\bin\Debug\N4.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\bin\Debug\N4.pdb
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.csproj.AssemblyReference.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.Form1.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.Properties.Resources.resources
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.csproj.GenerateResource.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.csproj.CoreCompileInputs.cache
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.exe
+C:\Users\PHAM NHAT QUYNH\Desktop\Nhật Quỳnh\CNPM\N4_login form\N4\obj\Debug\N4.pdb
